@@ -18,6 +18,6 @@ Welcome to the Project Title repository! This project is designed to help you ge
 
 # Copy code
 git clone -- https://github.com/username/project-title.git
-Navigate to the folder of your interest, and explore the exercises and examples provided.
+
 
 
